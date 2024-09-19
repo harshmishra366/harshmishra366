@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
-![Gif](https://user-images.githubusercontent.com/123456789/abc12345-image.png)
+ ![Alt Text](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+
 
 
 
